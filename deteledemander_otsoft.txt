@@ -1,0 +1,19 @@
+			Align-Comp	Align-Dat	Align-Acc	Align-Verb	*@	*CNC
+			Align-Comp	Align-Dat	Align-Acc	Align-Verb	*@	*CNC
+Avidtld@made	Avid@t@l@d@made	1					4	
+	AvidXt@l@d@made		1				3	
+	Avid@tXl@d@made			1			3	
+	Avid@t@lXd@made				1		3	
+	Avid@t@l@dXmade					1	3	
+	AvidXt@lXd@made		1		1		2	
+	AvidXt@l@dXmade		1			1	2	
+	Avid@tXl@dXmade			1		1	2	
+	Avid@t@lXdXmade				1	1	2	
+	AvidXtXl@d@made		1	1			2	
+	AvidXtXl@dXmade		1	1		1	1	
+	AvidXt@lXdXmade		1	 	1	1	1	
+	xAvid@tXlXd@made			1	1		2	1
+	xAvidXtXlXd@made		1	1	1		1	1
+	xAvid@tXlXdXmade			1	1	1	1	1
+	xAvidXtXlXdXmade		1	1	1	1		1
+	xxxx		6	6	6	6	6	6

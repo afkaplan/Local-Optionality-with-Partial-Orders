@@ -1,0 +1,10 @@
+			*R	*R-head	*SO	*SO-head	*SO-Ftmin
+			*R	*R-head	*SO	*SO-head	*SO-Ftmin
+marketability	marke[t]abili[t]y	1			2	1	
+	marke[R]abili[t]y		1		1	1	
+	marke[t]abili[R]y		1	1	1		
+	marke[R]abili[R]y		2	1			
+repetitive	repe[t]i[t]ive	1			2	2	1
+	repe[R]i[t]ive		1	1	1	1	
+	repe[R]i[R]ive		2	2			
+	repe[t]i[R]ive		1	1	1	1	1

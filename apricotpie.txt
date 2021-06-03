@@ -1,0 +1,17 @@
+		Max	Contig	Max-Head(max)	Contig-Head(max)	Max-Head(inter)	Contig-Head(inter)	Max-stem1	Contig-stem1
+		Max	Contig	Max-Hd(max)	Cont-Hd(max)	Max-Head(inter)	Cont-Hd(inter)	Max-stem1	Cont-stem1
+[VIL-'goodii]-[pas]-['tiil]	1	3	1	1		2			1
+[vil-'GOODII]-[pas]-['tiil]	1	3	1	1		1	1	1	
+[vil-'goodii]-[PAS]-['tiil]	1	3	1	1		2		1	
+[vil-'goodii]-[pas]-['TIIL]	1	3	1		1	1	1	1	
+[VIL-'GOODII]-[pas]-['tiil]	1	2	2	1		1	1		1
+[VIL-'goodii]-[PAS]-['tiil]	1	2	2	1		2			1
+[VIL-'goodii]-[pas]-['TIIL]	1	2	2		1	1	1		1
+[vil-'GOODII]-[PAS]-['tiil]	1	2	2	1		1	1	1	
+[vil-'GOODII]-[pas]-['TIIL]	1	2	2		1		2	1	
+[vil-'goodii]-[PAS]-['TIIL]	1	2	2		1	1	1	1	
+[VIL-'GOODII]-[PAS]-['tiil]	1	1	3	1		1	1		1
+[VIL-'GOODII]-[pas]-['TIIL]	1	1	3		1		2		1
+[VIL-'goodii]-[PAS]-['TIIL]	1	1	3		1	1	1		1
+[vil-'GOODII]-[PAS]-['TIIL]	1	1	3		1		2	1	
+[VIL-'GOODII]-[PAS]-['TIIL]	1		4		1		2		1

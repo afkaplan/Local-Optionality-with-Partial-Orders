@@ -1,0 +1,5 @@
+			Contiguity	Max-min[hd(max)]	Cont-min[hd(max)]	Max
+			Cont	Max-hdMin	Cont-hdMin	Max
+?`onk-?'us	?ONK-'?us	1	1	1		1
+	?onk-'?US		1		1	1
+	?ONK-'?US		2		1	 

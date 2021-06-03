@@ -1,0 +1,9 @@
+			Max	Contiguity	Max-minHDinter	Contig-minHDinter	Max-Hdmax	Contig-Hdmax
+			Max	Contig	Max-minHDinter	Contig-minHDinter	Max-Hdmax	Contig-Hdmax
+[?us-'kalit]-['vainom]	[?US-'kalit]-['vainom]	1	2	1	1		1	
+	[?us-'KALIT]-['vainom]		2	1		1	1	
+	[?us-'kalit]-['VAINOM]		2	1	1			1
+	[?US-'KALIT]-['vainom]		1	2		1	1	
+	[?US-'kalit]-['VAINOM]		1	2	1			1
+	[?us-'KALIT]-['VAINOM]		1	2		1		1
+	[?US-'KALIT]-['VAINOM]			3		1		1
